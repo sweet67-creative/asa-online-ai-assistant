@@ -1,0 +1,6 @@
+{
+  "name": "AI Workplace Assistant",
+  "description": "Professional dark modern AI workplace productivity suite featuring Smart Email Generator, Meeting Notes Summarizer, Task Planner, Research Assistant, and AI Chatbot. Engineered by Andile Dube ASA 18 Soweto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
